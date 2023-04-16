@@ -3,7 +3,7 @@
 
 Aprendendo a criar sites com os Módulos 1 e 2. Agora no Módulo 3 vou gerenciar meus repositórios.
 
-<a href="https://albvieiraa.github.io/html-css/exercícios/ex001/index.html">Executar o exercício 001 </a>
+<a href="https://albvieiraa.github.io/html-css/exercícios/ex001/index.html">Executar o exercício 001 </a><br>
 <a href="https://albvieiraa.github.io/html-css/exercícios/ex002/index.html">Executar o exercício 002 </a>
 <a href="https://albvieiraa.github.io/html-css/exercícios/ex003/index.html">Executar o exercício 003 </a>
 <a href="https://albvieiraa.github.io/html-css/exercícios/ex004/index.html">Executar o exercício 004 </a>
